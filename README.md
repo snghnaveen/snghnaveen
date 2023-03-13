@@ -16,7 +16,6 @@ Skills :
 <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="https://redis.io/" title="Redis"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></a>
 <a href="https://www.mysql.com/" title="MySql"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="https://www.mysql.com/" title="MySql"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="https://www.travis-ci.com/" title="TravisCI"><img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" /></a>
 <a href="https://www.gnu.org/software/bash/" title="Shell"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
 
