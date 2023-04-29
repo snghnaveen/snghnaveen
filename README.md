@@ -3,7 +3,7 @@
 
 - 🖥️ I am working as **Backend Engineer**
 - 😊 Interested in everything **Cloud Native**
-- 📖 Currently learning **Argo CD, Jenkins**
+- 📖 Currently learning **AWS Beanstalk and AWS Code Pipeline**
 - 📫 How to reach me: sngh.naveen@gmail.com
 - 📋 Resume: https://rxresu.me/sngh.naveen/naveen-singh
 
