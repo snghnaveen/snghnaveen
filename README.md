@@ -3,7 +3,7 @@
 
 - 🖥️ I am working as **Backend Engineer**
 - 😊 Interested in everything **Cloud Native**
-- 📖 Currently learning **AWS Beanstalk and AWS Code Pipeline**
+- 📖 Currently learning **React**
 - 📫 How to reach me: sngh.naveen@gmail.com
 - 📋 Resume: https://rxresu.me/sngh.naveen/naveen-singh
 
@@ -18,6 +18,9 @@ Skills :
 <a href="https://www.mysql.com/" title="MySql"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="https://www.travis-ci.com/" title="TravisCI"><img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" /></a>
 <a href="https://www.gnu.org/software/bash/" title="Shell"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+<a href="https://react.dev/" title="React"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoColor=white" /></a>
 
+<!---
+-- https://github.com/Ileriayo/markdown-badges
+--->
 
-![Profile views](https://gpvc.arturio.dev/snghnaveen)
