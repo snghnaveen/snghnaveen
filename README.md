@@ -1,11 +1,11 @@
 ### Hi there 👋
-#### I am Backend Engineer from India
+#### I am Senior Software Engineer from India
 
-- 🖥️ I am working as **Backend Engineer**
+- 🖥️ I am working as **Senior Software Engineer**
 - 😊 Interested in everything **Cloud Native**
 - 📖 Currently learning **React**
 - 📫 How to reach me: sngh.naveen@gmail.com
-- 📋 Resume: https://rxresu.me/sngh.naveen/naveen-singh
+- 📋 Resume: _[Google Drive Link](https://drive.google.com/file/d/1npleOOdOLl2OJJneDabZrOG7wi58qI3S/view)_
 
 Skills : 
 
